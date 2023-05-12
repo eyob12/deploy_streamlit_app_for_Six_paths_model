@@ -1,153 +1,153 @@
 
 {
     "01": {
-        "enh_vis": "ENH_IR\\Enh_IR_001.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_001.jpg",
-        "org_vis": "ORG_VIS\\1.jpg",
-        "org_ir": "ORG_IR\\1.jpg",
-        "ref_img": "referance_TNO\\ref1.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_001.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_001.jpg",
+        "org_vis": "ORG_VIS/1.jpg",
+        "org_ir": "ORG_IR/1.jpg",
+        "ref_img": "referance_TNO/ref1.jpg"
         
     },
     "02": {
-        "enh_vis": "ENH_IR\\Enh_IR_002.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_002.jpg",
-        "org_vis": "ORG_VIS\\2.jpg",
-        "org_ir": "ORG_IR\\2.jpg",
-        "ref_img": "referance_TNO\\ref2.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_002.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_002.jpg",
+        "org_vis": "ORG_VIS/2.jpg",
+        "org_ir": "ORG_IR/2.jpg",
+        "ref_img": "referance_TNO/ref2.jpg"
     },
     "03": {
-        "enh_vis": "ENH_IR\\Enh_IR_003.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_003.jpg",
-        "org_vis": "ORG_VIS\\3.jpg",
-        "org_ir": "ORG_IR\\3.jpg",
-        "ref_img": "referance_TNO\\ref3.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_003.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_003.jpg",
+        "org_vis": "ORG_VIS/3.jpg",
+        "org_ir": "ORG_IR/3.jpg",
+        "ref_img": "referance_TNO/ref3.jpg"
     },
     "04": {
-        "enh_vis": "ENH_IR\\Enh_IR_004.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_004.jpg",
-        "org_vis": "ORG_VIS\\4.jpg",
-        "org_ir": "ORG_IR\\4.jpg",
-        "ref_img": "referance_TNO\\ref4.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_004.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_004.jpg",
+        "org_vis": "ORG_VIS/4.jpg",
+        "org_ir": "ORG_IR/4.jpg",
+        "ref_img": "referance_TNO/ref4.jpg"
     },
     "05": {
-        "enh_vis": "ENH_IR\\Enh_IR_005.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_005.jpg",
-        "org_vis": "ORG_VIS\\5.jpg",
-        "org_ir": "ORG_IR\\5.jpg",
-        "ref_img": "referance_TNO\\ref5.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_005.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_005.jpg",
+        "org_vis": "ORG_VIS/5.jpg",
+        "org_ir": "ORG_IR/5.jpg",
+        "ref_img": "referance_TNO/ref5.jpg"
     },
     "06": {
-        "enh_vis": "ENH_IR\\Enh_IR_006.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_006.jpg",
-        "org_vis": "ORG_VIS\\6.jpg",
-        "org_ir": "ORG_IR\\6.jpg",
-        "ref_img": "referance_TNO\\ref6.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_006.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_006.jpg",
+        "org_vis": "ORG_VIS/6.jpg",
+        "org_ir": "ORG_IR/6.jpg",
+        "ref_img": "referance_TNO/ref6.jpg"
     },
     "07": {
-        "enh_vis": "ENH_IR\\Enh_IR_007.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_007.jpg",
-        "org_vis": "ORG_VIS\\7.jpg",
-        "org_ir": "ORG_IR\\7.jpg",
-        "ref_img": "referance_TNO\\ref7.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_007.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_007.jpg",
+        "org_vis": "ORG_VIS/7.jpg",
+        "org_ir": "ORG_IR/7.jpg",
+        "ref_img": "referance_TNO/ref7.jpg"
     },
     "08": {
-        "enh_vis": "ENH_IR\\Enh_IR_008.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_008.jpg",
-        "org_vis": "ORG_VIS\\8.jpg",
-        "org_ir": "ORG_IR\\8.jpg",
-        "ref_img": "referance_TNO\\ref8.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_008.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_008.jpg",
+        "org_vis": "ORG_VIS/8.jpg",
+        "org_ir": "ORG_IR/8.jpg",
+        "ref_img": "referance_TNO/ref8.jpg"
     },
     "09": {
-        "enh_vis": "ENH_IR\\Enh_IR_009.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_009.jpg",
-        "org_vis": "ORG_VIS\\9.jpg",
-        "org_ir": "ORG_IR\\9.jpg",
-        "ref_img": "referance_TNO\\ref9.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_009.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_009.jpg",
+        "org_vis": "ORG_VIS/9.jpg",
+        "org_ir": "ORG_IR/9.jpg",
+        "ref_img": "referance_TNO/ref9.jpg"
     },
     "10": {
-        "enh_vis": "ENH_IR\\Enh_IR_010.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_010.jpg",
-        "org_vis": "ORG_VIS\\10.jpg",
-        "org_ir": "ORG_IR\\10.jpg",
-        "ref_img": "referance_TNO\\ref10.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_010.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_010.jpg",
+        "org_vis": "ORG_VIS/10.jpg",
+        "org_ir": "ORG_IR/10.jpg",
+        "ref_img": "referance_TNO/ref10.jpg"
     },
     "11": {
-        "enh_vis": "ENH_IR\\Enh_IR_011.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_011.jpg",
-        "org_vis": "ORG_VIS\\11.jpg",
-        "org_ir": "ORG_IR\\11.jpg",
-        "ref_img": "referance_TNO\\ref11.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_011.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_011.jpg",
+        "org_vis": "ORG_VIS/11.jpg",
+        "org_ir": "ORG_IR/11.jpg",
+        "ref_img": "referance_TNO/ref11.jpg"
     },
     "12": {
-        "enh_vis": "ENH_IR\\Enh_IR_012.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_012.jpg",
-        "org_vis": "ORG_VIS\\12.jpg",
-        "org_ir": "ORG_IR\\12.jpg",
-        "ref_img": "referance_TNO\\ref12.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_012.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_012.jpg",
+        "org_vis": "ORG_VIS/12.jpg",
+        "org_ir": "ORG_IR/12.jpg",
+        "ref_img": "referance_TNO/ref12.jpg"
     },
     "13": {
-        "enh_vis": "ENH_IR\\Enh_IR_013.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_013.jpg",
-        "org_vis": "ORG_VIS\\13.jpg",
-        "org_ir": "ORG_IR\\13.jpg",
-        "ref_img": "referance_TNO\\ref13.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_013.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_013.jpg",
+        "org_vis": "ORG_VIS/13.jpg",
+        "org_ir": "ORG_IR/13.jpg",
+        "ref_img": "referance_TNO/ref13.jpg"
     },
     "14": {
-        "enh_vis": "ENH_IR\\Enh_IR_014.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_014.jpg",
-        "org_vis": "ORG_VIS\\14.jpg",
-        "org_ir": "ORG_IR\\14.jpg",
-        "ref_img": "referance_TNO\\ref14.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_014.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_014.jpg",
+        "org_vis": "ORG_VIS/14.jpg",
+        "org_ir": "ORG_IR/14.jpg",
+        "ref_img": "referance_TNO/ref14.jpg"
         
         
     },
     "15": {
-        "enh_vis": "ENH_IR\\Enh_IR_015.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_015.jpg",
-        "org_vis": "ORG_VIS\\15.jpg",
-        "org_ir": "ORG_IR\\15.jpg",
-        "ref_img": "referance_TNO\\ref15.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_015.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_015.jpg",
+        "org_vis": "ORG_VIS/15.jpg",
+        "org_ir": "ORG_IR/15.jpg",
+        "ref_img": "referance_TNO/ref15.jpg"
     },
     "16": {
-        "enh_vis": "ENH_IR\\Enh_IR_016.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_016.jpg",
-        "org_vis": "ORG_VIS\\16.jpg",
-        "org_ir": "ORG_IR\\16.jpg",
-        "ref_img": "referance_TNO\\ref16.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_016.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_016.jpg",
+        "org_vis": "ORG_VIS/16.jpg",
+        "org_ir": "ORG_IR/16.jpg",
+        "ref_img": "referance_TNO/ref16.jpg"
     },
     "17": {
-        "enh_vis": "ENH_IR\\Enh_IR_017.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_017.jpg",
-        "org_vis": "ORG_VIS\\17.jpg",
-        "org_ir": "ORG_IR\\17.jpg",
-        "ref_img": "referance_TNO\\ref17.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_017.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_017.jpg",
+        "org_vis": "ORG_VIS/17.jpg",
+        "org_ir": "ORG_IR/17.jpg",
+        "ref_img": "referance_TNO/ref17.jpg"
     },
     "18": {
-        "enh_vis": "ENH_IR\\Enh_IR_018.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_018.jpg",
-        "org_vis": "ORG_VIS\\18.jpg",
-        "org_ir": "ORG_IR\\18.jpg",
-        "ref_img": "referance_TNO\\ref18.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_018.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_018.jpg",
+        "org_vis": "ORG_VIS/18.jpg",
+        "org_ir": "ORG_IR/18.jpg",
+        "ref_img": "referance_TNO/ref18.jpg"
     },
     "19": {
-        "enh_vis": "ENH_IR\\Enh_IR_019.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_019.jpg",
-        "org_vis": "ORG_VIS\\19.jpg",
-        "org_ir": "ORG_IR\\19.jpg",
-        "ref_img": "referance_TNO\\ref19.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_019.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_019.jpg",
+        "org_vis": "ORG_VIS/19.jpg",
+        "org_ir": "ORG_IR/19.jpg",
+        "ref_img": "referance_TNO/ref19.jpg"
     },
     "20": {
-        "enh_vis": "ENH_IR\\Enh_IR_020.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_020.jpg",
-        "org_vis": "ORG_VIS\\20.jpg",
-        "org_ir": "ORG_IR\\20.jpg",
-        "ref_img": "referance_TNO\\ref20.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_020.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_020.jpg",
+        "org_vis": "ORG_VIS/20.jpg",
+        "org_ir": "ORG_IR/20.jpg",
+        "ref_img": "referance_TNO/ref20.jpg"
     },
     "21": {
-        "enh_vis": "ENH_IR\\Enh_IR_021.jpg",
-        "enh_ir": "ENH_VIS\\Enh_VIS_021.jpg",
-        "org_vis": "ORG_VIS\\21.jpg",
-        "org_ir": "ORG_IR\\21.jpg",
-        "ref_img": "referance_TNO\\ref21.jpg"
+        "enh_vis": "ENH_IR/Enh_IR_021.jpg",
+        "enh_ir": "ENH_VIS/Enh_VIS_021.jpg",
+        "org_vis": "ORG_VIS/21.jpg",
+        "org_ir": "ORG_IR/21.jpg",
+        "ref_img": "referance_TNO/ref21.jpg"
     }
 }
