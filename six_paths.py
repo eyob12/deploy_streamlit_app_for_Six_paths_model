@@ -317,6 +317,7 @@ dataset_type = st.sidebar.selectbox(
 
 path1 = all_image_files[dataset_type]['org_vis']
 path3 = all_image_files[dataset_type]['enh_vis']
+print(path3)
 path2 = all_image_files[dataset_type]['org_ir']
 path4 = all_image_files[dataset_type]['enh_ir']
 
